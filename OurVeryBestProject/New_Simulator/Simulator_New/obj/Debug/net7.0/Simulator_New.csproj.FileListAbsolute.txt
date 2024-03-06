@@ -1,0 +1,66 @@
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Simulator_New.exe
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Simulator_New.deps.json
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Simulator_New.runtimeconfig.json
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Simulator_New.dll
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Simulator_New.pdb
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.AssemblyInfo.cs
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\staticwebassets\msbuild.Simulator_New.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\staticwebassets\msbuild.build.Simulator_New.props
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Simulator_New.props
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Simulator_New.props
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\scopedcss\bundle\Simulator_New.styles.css
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.csproj.CopyComplete
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.dll
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\refint\Simulator_New.dll
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.pdb
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.genruntimeconfig.cache
+C:\Users\user\Downloads\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\ref\Simulator_New.dll
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\appsettings.json
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Simulator_New.exe
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Simulator_New.deps.json
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Simulator_New.runtimeconfig.json
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Simulator_New.dll
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Simulator_New.pdb
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.AssemblyInfo.cs
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\staticwebassets\msbuild.Simulator_New.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\staticwebassets\msbuild.build.Simulator_New.props
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Simulator_New.props
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Simulator_New.props
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\scopedcss\bundle\Simulator_New.styles.css
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.csproj.CopyComplete
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.dll
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\refint\Simulator_New.dll
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.pdb
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\Simulator_New.genruntimeconfig.cache
+C:\Users\user\OneDrive\שולחן העבודה\OurVeryBestProject (3)\OurVeryBestProject\New_Simulator\Simulator_New\obj\Debug\net7.0\ref\Simulator_New.dll
